@@ -1,4 +1,4 @@
-# clase-prueba
+# clase-prueba desde la rama mejorandola . 
 Esta es una prueba de mi primer repositorio en Git 
 
 Una vez instalado GIT, debes configurarlo:
